@@ -1,0 +1,17 @@
+﻿# Android Studio / IDE
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+**/build/
+local.properties
+
+# Secrets and signing
+*.jks
+*.keystore
+google-services.json
+
+# OS junk
+.DS_Store
+Thumbs.db
